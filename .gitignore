@@ -2,3 +2,5 @@
 .venv/
 *.cvs
 *.exe
+*.env
+__pycache__/
